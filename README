@@ -11,14 +11,16 @@ The following is a summary of the repository tree.
   /.git*                       Standard repository files
   /CC0-1.0.txt                 The CC0 1.0 Universal
                                  Public Domain Dedication
-  /KeePass-2.*-Source.zip      The KeePass source code
+  /KeePass-2.28-Source.zip     The archived KeePass source code
+  /KeePass-2.28.zip            The archived KeePass program files
   /README                      This file
-  /program                     The KeePass program files
+  /program                     The extracted KeePass program files
   /program/KeePass.config.xml  The KeePass configuration file
 
-The KeePass source code and program files include their own copyright
-information and are unchanged except for the configuration file, whose
-changes include an appended copyright notice addressing the changes.
+The archived KeePass source code and program files are unchanged and
+include their own copyright information. The extracted program files are
+also unchanged, but additionally include the generated and customized
+configuration file, whose changes include an appended copyright notice.
 
 The authors of this file have waived all copyright and
 related or neighboring rights to the extent permitted by
