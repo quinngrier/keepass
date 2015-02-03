@@ -7,19 +7,21 @@ KeePass.kdbx file and run KeePass/KeePass.exe.
 
 The following is a summary of the directory contents.
 
-  /.git*                       Standard repository files
-  /CC0-1.0.txt                 The CC0 1.0 Universal
-                                 Public Domain Dedication
-  /KeePass-2.28-Source.zip     The archived KeePass source code
-  /KeePass-2.28.zip            The archived KeePass program files
-  /README                      This file
-  /program                     The extracted KeePass program files
-  /program/KeePass.config.xml  The KeePass configuration file
+  .gitattributes              Git repository stuff
+  .gitignore                  Git repository stuff
+  .gitmessage                 Git repository stuff
+  CC0-1.0.txt                 The CC0 1.0 Universal
+                                Public Domain Dedication
+  KeePass-2.28-Source.zip     The official KeePass source code
+  KeePass-2.28.zip            The official KeePass program files
+  KeePass/                    The extracted KeePass program files
+  KeePass/KeePass.config.xml  The KeePass configuration file
+  README.txt                  This file
 
-The archived KeePass source code and program files are unchanged and
-include their own copyright information. The extracted program files are
-also unchanged, but additionally include the generated and customized
-configuration file, whose changes include an appended copyright notice.
+The official KeePass source code and program files include their own
+copyright information. The extracted program files are unchanged but
+additionally include the customized configuration file, whose changes
+include an appended copyright notice.
 
 The authors of this file have waived all copyright and
 related or neighboring rights to the extent permitted by
