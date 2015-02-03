@@ -1,4 +1,4 @@
-This directory contains a copy of the portable version of KeePass 2.x
+This directory contains a copy of the portable version of KeePass 2.28
 that is preconfigured for long-term use. The idea is to use only global
 auto-type, but in a special way. By making every window pattern a single
 asterisk and using only atomic key sequences like {USERNAME}, the entire
