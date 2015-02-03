@@ -6,7 +6,7 @@
 	</Meta>
 	<Application>
 		<LastUsedFile>
-			<Path>..\database.kdbx</Path>
+			<Path>..\KeePass.kdbx</Path>
 			<CredProtMode>Obf</CredProtMode>
 			<CredSaveMode>NoSave</CredSaveMode>
 		</LastUsedFile>
