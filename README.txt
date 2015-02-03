@@ -1,10 +1,9 @@
-This directory contains a copy of the portable version of KeePass 2.28
-that is preconfigured for long-term use. The idea is to use only global
-auto-type, but in a special way. By making every window pattern a single
-asterisk and using only atomic key sequences like {USERNAME}, the entire
-list of key sequences is always displayed and key sequences never become
-obsolete. The configuration is customized for this idea and portability.
-To get started, add a database.kdbx file and run program/KeePass.exe.
+This directory contains a copy of the official portable version of
+KeePass 2.28 that is preconfigured for long-term use. The trick is to
+use only global auto-type, make every window pattern an asterisk, and
+use only atomic key sequences like {USERNAME}. This way, every key
+sequence is always available and never broken. To get going, add a
+KeePass.kdbx file and run KeePass/KeePass.exe.
 
 The following is a summary of the directory contents.
 
