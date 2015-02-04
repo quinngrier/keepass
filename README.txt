@@ -7,6 +7,7 @@ KeePass.kdbx file and run KeePass/KeePass.exe.
 
 The following is a summary of the directory contents.
 
+  README.txt                  This file
   .gitattributes              Git repository stuff
   .gitignore                  Git repository stuff
   .gitmessage                 Git repository stuff
@@ -16,7 +17,6 @@ The following is a summary of the directory contents.
   KeePass-2.28.zip            The official KeePass program files
   KeePass/                    The extracted KeePass program files
   KeePass/KeePass.config.xml  The KeePass configuration file
-  README.txt                  This file
 
 The official KeePass source code and program files include their own
 copyright information. The extracted program files are unchanged but
