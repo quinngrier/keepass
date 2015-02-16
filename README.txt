@@ -73,10 +73,9 @@ and drop and the clipboard are disabled. The first thing you might want
 to do is set KeePass to run at Windows startup, which is a setting that
 directly affects Windows and is not stored in the configuration.
 
-The recommended way to update your database according to the motivation
-is as a gradual process. Begin by adding at least two auto-type entries
-to ensure that the list will always display, and add further auto-type
-entries only as needed.
+The recommended way to update your database is gradually. Add two
+auto-type entries to ensure that the list always appears, but add
+further entries only as needed.
 
 Miscellaneous
 
