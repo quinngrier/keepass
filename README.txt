@@ -97,6 +97,13 @@ copyright information. The extracted program files are unchanged but
 additionally include the customized configuration file, whose changes
 include an appended copyright notice.
 
+Tracking KeePass.kdbx in a parallel repository
+
+  git --git-dir=.gitkdbx --work-tree=. init
+  echo '*' >>.gitkdbx/info/exclude
+  git --git-dir=.gitkdbx --work-tree=. add -f KeePass.kdbx
+  git --git-dir=.gitkdbx --work-tree=. <etc>
+
 The authors of this file have waived all copyright and
 related or neighboring rights to the extent permitted by
 law as described by the CC0 1.0 Universal Public Domain
