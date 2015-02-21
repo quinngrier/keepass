@@ -1,10 +1,10 @@
-This directory contains a copy of the official portable version of
-KeePass 2.28 that is preconfigured to be used in a special way. KeePass
-is an excellent password manager, but the natural ways of using it can
-be problematic. This special way of using it, which involves using its
-global auto-type feature, solves all of these problems. Even if you're
-not interested in using this preconfigured copy of KeePass, you might
-still enjoy the motivation behind it.
+This directory contains a preconfigured copy of the official portable
+version of KeePass 2.28. KeePass is an excellent password manager, but
+the natural ways of using it can be problematic. Fortunately, this can
+be solved by using the global auto-type feature in a special way. The
+configuration is tailored to this solution, but the discussion of the
+solution is most important. Even if you're not interested in actually
+using this copy of KeePass, you might still enjoy reading further.
 
 Motivation
 
