@@ -91,6 +91,7 @@ The following is a summary of the directory contents.
   KeePass-2.28.zip            The official KeePass program files
   KeePass/                    The extracted KeePass program files
   KeePass/KeePass.config.xml  The KeePass configuration file
+  gitkdbx.cmd
   gitkdbx.sh
 
 The official KeePass source code and program files include their own
