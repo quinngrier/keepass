@@ -2,7 +2,7 @@
 VERIFY OTHER 2>NUL
 SETLOCAL ENABLEEXTENSIONS
 IF ERRORLEVEL 1 (
-  (ECHO %0: command extensions could not be enabled) >&2
+  (ECHO Command extensions could not be enabled.) >&2
   GOTO END
 )
 SET GIT_WORK_TREE=%0
