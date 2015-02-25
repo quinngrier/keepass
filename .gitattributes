@@ -2,8 +2,8 @@
 # The following line ensures that end-of-line normalization is disabled.
 # When enabled, Git quietly adjusts line endings when files are checked
 # in and out. See the gitattributes documentation for more information.
-# This can be problematic and should not be enabled by default, but some
-# versions of Git do enable it by default.
+# This can be problematic and should generally be disabled, but some
+# versions of Git enable it by default.
 #
 
 * -text
