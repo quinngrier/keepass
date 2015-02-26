@@ -2,7 +2,7 @@
 set -e
 export GIT_WORK_TREE=$(dirname "$0")
 export GIT_DIR=$GIT_WORK_TREE/.gitkdbx
-git $*
+git "$@"
 
 #
 # The authors of this file have waived all copyright and
