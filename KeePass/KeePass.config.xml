@@ -32,8 +32,8 @@
 		<Y>0</Y>
 		<Width>640</Width>
 		<Height>480</Height>
-		<SplitterHorizontalFrac>0.06329114</SplitterHorizontalFrac>
-		<SplitterVerticalFrac>0.0993589759</SplitterVerticalFrac>
+		<SplitterHorizontalFrac>0.067024128686327081</SplitterHorizontalFrac>
+		<SplitterVerticalFrac>0.099358975899999979</SplitterVerticalFrac>
 		<Layout>Default</Layout>
 		<CloseButtonMinimizesWindow>true</CloseButtonMinimizesWindow>
 		<MinimizeToTray>true</MinimizeToTray>
@@ -176,6 +176,7 @@
 		<AutoTypeCancelOnWindowChange>true</AutoTypeCancelOnWindowChange>
 		<AutoTypeCancelOnTitleChange>true</AutoTypeCancelOnTitleChange>
 		<ProxyType>System</ProxyType>
+		<ProxyAuthType>Auto</ProxyAuthType>
 	</Integration>
 	<Custom />
 </Configuration>
