@@ -141,6 +141,12 @@
 		</LastUsedProfile>
 		<UserProfiles>
 			<Profile>
+				<Name> 10 alphanumeric characters (just over 59 bits)</Name>
+				<GeneratorType>CharSet</GeneratorType>
+				<Length>10</Length>
+				<CharSetRanges>ULD_______</CharSetRanges>
+			</Profile>
+			<Profile>
 				<Name> 16 alphanumeric characters (just over 95 bits)</Name>
 				<GeneratorType>CharSet</GeneratorType>
 				<Length>16</Length>
