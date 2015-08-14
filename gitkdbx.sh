@@ -1,7 +1,13 @@
-set -e
-export GIT_WORK_TREE=$(dirname -- "$0")
-export GIT_DIR="$GIT_WORK_TREE"/.gitkdbx
-git "$@"
+case "${#}" in
+  0)
+    git --git-dir=.gitkdbx --work-tree=.
+    exit "${?}"
+    ;;
+  *)
+    git --git-dir=.gitkdbx --work-tree=. "${@}"
+    exit "${?}"
+    ;;
+esac
 
 #
 # The authors of this file have waived all copyright and
