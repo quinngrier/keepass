@@ -1,6 +1,6 @@
 case "${#}" in
 #(
-  0)
+  '0')
     git '--git-dir=.gitkdbx' '--work-tree=.'
     exit "${?}"
   ;;
