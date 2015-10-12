@@ -6,7 +6,7 @@ case "${#}" in
   ;;
 #(
   *)
-    git --git-dir=.gitkdbx --work-tree=. "${@}"
+    git '--git-dir=.gitkdbx' '--work-tree=.' "${@}"
     exit "${?}"
   ;;
 esac
