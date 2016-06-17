@@ -1,12 +1,12 @@
 case "${#}" in
 #(
   '0')
-    git '--git-dir=.gitkdbx' '--work-tree=.'
+    'git' '--git-dir=.gitkdbx' '--work-tree=.'
     exit "${?}"
   ;;
 #(
   *)
-    git '--git-dir=.gitkdbx' '--work-tree=.' "${@}"
+    'git' '--git-dir=.gitkdbx' '--work-tree=.' "${@}"
     exit "${?}"
   ;;
 esac
