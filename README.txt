@@ -1,5 +1,5 @@
 This directory contains a preconfigured copy of the official portable
-version of KeePass 2.32. KeePass is an excellent password manager, but
+version of KeePass 2.33. KeePass is an excellent password manager, but
 the natural ways of using it can be problematic. Fortunately, this can
 be solved by using the global auto-type feature in a special way. The
 configuration is tailored to this solution, but the discussion of the
@@ -87,8 +87,8 @@ The following is a summary of the directory contents.
   .gitmessage                 Git repository stuff
   CC0-1.0.txt                 The CC0 1.0 Universal
                                 Public Domain Dedication
-  KeePass-2.32-Source.zip     The official KeePass source code
-  KeePass-2.32.zip            The official KeePass program files
+  KeePass-2.33-Source.zip     The official KeePass source code
+  KeePass-2.33.zip            The official KeePass program files
   KeePass/                    The extracted KeePass program files
   KeePass/KeePass.config.xml  The KeePass configuration file
   gitkdbx.cmd
