@@ -4,12 +4,9 @@ case "${#}" in
     'git' '--git-dir=.gitkdbx' '--work-tree=.'
     'exit' "${?}"
   ;;
-#(
-  *)
-    'git' '--git-dir=.gitkdbx' '--work-tree=.' "${@}"
-    'exit' "${?}"
-  ;;
 esac
+'git' '--git-dir=.gitkdbx' '--work-tree=.' "${@}"
+'exit' "${?}"
 
 #
 # The authors of this file have waived all copyright and
