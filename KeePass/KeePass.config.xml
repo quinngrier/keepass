@@ -159,6 +159,24 @@
 				<CharSetRanges>ULD_______</CharSetRanges>
 			</Profile>
 			<Profile>
+				<Name> 10 Lowercase Letters (over 47 bits)</Name>
+				<GeneratorType>CharSet</GeneratorType>
+				<Length>10</Length>
+				<CharSetRanges>_L________</CharSetRanges>
+			</Profile>
+			<Profile>
+				<Name> 16 Lowercase Letters (over 75 bits)</Name>
+				<GeneratorType>CharSet</GeneratorType>
+				<Length>16</Length>
+				<CharSetRanges>_L________</CharSetRanges>
+			</Profile>
+			<Profile>
+				<Name> 55 Lowercase Letters (over 256 bits)</Name>
+				<GeneratorType>CharSet</GeneratorType>
+				<Length>55</Length>
+				<CharSetRanges>_L________</CharSetRanges>
+			</Profile>
+			<Profile>
 				<Name> 10 Lowercase Letters and Numbers (over 51 bits)</Name>
 				<GeneratorType>CharSet</GeneratorType>
 				<Length>10</Length>
