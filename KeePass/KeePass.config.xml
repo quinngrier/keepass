@@ -183,7 +183,7 @@
 				<CharSetRanges>_L________</CharSetRanges>
 			</Profile>
 			<Profile>
-				<Name> 55 Lowercase Letters (over 256 bits)</Name>
+				<Name> 55 Lowercase Letters (over 258 bits)</Name>
 				<GeneratorType>CharSet</GeneratorType>
 				<Length>55</Length>
 				<CharSetRanges>_L________</CharSetRanges>
@@ -207,7 +207,7 @@
 				<CharSetRanges>_LD_______</CharSetRanges>
 			</Profile>
 			<Profile>
-				<Name> 50 Lowercase Letters and Numbers (over 256 bits)</Name>
+				<Name> 50 Lowercase Letters and Numbers (over 258 bits)</Name>
 				<GeneratorType>CharSet</GeneratorType>
 				<Length>50</Length>
 				<CharSetRanges>_LD_______</CharSetRanges>
