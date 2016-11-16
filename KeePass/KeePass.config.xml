@@ -28,8 +28,6 @@
 	</Application>
 	<Logging />
 	<MainWindow>
-		<X>0</X>
-		<Y>0</Y>
 		<Width>640</Width>
 		<Height>480</Height>
 		<SplitterHorizontalFrac>0.067024128686327081</SplitterHorizontalFrac>
