@@ -86,7 +86,6 @@
 			<Style>Regular</Style>
 			<OverrideUIDefault>false</OverrideUIDefault>
 		</DataEditorFont>
-		<AutoTypeCtxRect>0, 0, 640, 480</AutoTypeCtxRect>
 		<AutoTypeCtxFlags>35</AutoTypeCtxFlags>
 		<AutoTypeCtxColumnWidths>180 180 180</AutoTypeCtxColumnWidths>
 		<UIFlags>0</UIFlags>
