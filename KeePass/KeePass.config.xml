@@ -87,7 +87,6 @@
 			<OverrideUIDefault>false</OverrideUIDefault>
 		</DataEditorFont>
 		<AutoTypeCtxFlags>35</AutoTypeCtxFlags>
-		<AutoTypeCtxColumnWidths>180 180 180</AutoTypeCtxColumnWidths>
 		<UIFlags>0</UIFlags>
 		<KeyCreationFlags>0</KeyCreationFlags>
 		<KeyPromptFlags>0</KeyPromptFlags>
