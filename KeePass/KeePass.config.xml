@@ -137,9 +137,15 @@
 		</LastUsedProfile>
 		<UserProfiles>
 			<Profile>
-				<Name>&#x200B;&#x200B;&#x200B;&#x200B;55 Lowercase Letters (over 258 bits)</Name>
+				<Name>&#x200B;&#x200B;&#x200B;&#x200B;&#x200B;55 Lowercase Letters (over 258 bits)</Name>
 				<GeneratorType>CharSet</GeneratorType>
 				<Length>55</Length>
+				<CharSetRanges>_L________</CharSetRanges>
+			</Profile>
+			<Profile>
+				<Name>&#x200B;&#x200B;&#x200B;&#x200B;28 Lowercase Letters (over 131 bits)</Name>
+				<GeneratorType>CharSet</GeneratorType>
+				<Length>28</Length>
 				<CharSetRanges>_L________</CharSetRanges>
 			</Profile>
 			<Profile>
