@@ -1,10 +1,27 @@
+case "${GIT+is_set}" in
+  ?*)
+  ;;
+  *)
+    GIT=''\''git'\'''
+  ;;
+esac
+'readonly' 'GIT'
+
 case "${#}" in
   '0')
-    'git' '--git-dir=.gitkdbx' '--work-tree=.'
+    'eval' "${GIT}"' \
+      '\''--git-dir=.gitkdbx'\'' \
+      '\''--work-tree=.'\'' \
+    ;'
     'exit' "${?}"
   ;;
 esac
-'git' '--git-dir=.gitkdbx' '--work-tree=.' "${@}"
+
+'eval' "${GIT}"' \
+  '\''--git-dir=.gitkdbx'\'' \
+  '\''--work-tree=.'\'' \
+  "${@}" \
+;'
 'exit' "${?}"
 
 #
