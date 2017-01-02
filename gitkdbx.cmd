@@ -1,5 +1,8 @@
 @ ECHO OFF
-git --git-dir=.gitkdbx --work-tree=. %*
+IF "%GIT%" == "" (
+  SET GIT=git
+)
+%GIT% --git-dir=.gitkdbx --work-tree=. %*
 
 REM
 REM The authors of this file have waived all copyright and
