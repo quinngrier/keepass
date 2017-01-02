@@ -1,4 +1,5 @@
 @ ECHO OFF
+SETLOCAL
 IF "%GIT%" == "" (
   SET GIT=git
 )
