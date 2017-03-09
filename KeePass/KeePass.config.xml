@@ -57,6 +57,7 @@
 		</EntryListColumnCollection>
 		<EntryListColumnDisplayOrder>0 1</EntryListColumnDisplayOrder>
 		<EntryListAlternatingBgColors>false</EntryListAlternatingBgColors>
+		<EntryListShowDerefData>true</EntryListShowDerefData>
 		<ListSorting>
 			<Order>Ascending</Order>
 		</ListSorting>
