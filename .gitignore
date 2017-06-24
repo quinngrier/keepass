@@ -1,5 +1,5 @@
+*.kdbx
 /.gitkdbx
-/KeePass.kdbx
 
 #
 # The authors of this file have waived all copyright and
