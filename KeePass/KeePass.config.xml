@@ -190,6 +190,7 @@
 		<AutoTypeMatchByTitle>false</AutoTypeMatchByTitle>
 		<AutoTypeCancelOnWindowChange>true</AutoTypeCancelOnWindowChange>
 		<AutoTypeCancelOnTitleChange>true</AutoTypeCancelOnTitleChange>
+		<AutoTypeAbortOnWindows />
 		<ProxyType>System</ProxyType>
 		<ProxyAuthType>Auto</ProxyAuthType>
 	</Integration>
