@@ -86,8 +86,8 @@ The following is a summary of the directory contents.
   .gitmessage                 Git repository stuff
   CC0-1.0.txt                 The CC0 1.0 Universal
                                 Public Domain Dedication
-  KeePass-2.39.1-Source.zip   The official KeePass source code
-  KeePass-2.39.1.zip          The official KeePass program files
+  KeePass-*-Source.zip        The official KeePass source code
+  KeePass-*.zip               The official KeePass program files
   KeePass/                    The extracted KeePass program files
   KeePass/KeePass.config.xml  The KeePass configuration file
   gitkdbx.cmd
