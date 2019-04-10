@@ -1,10 +1,9 @@
 This directory contains a preconfigured copy of the official portable
-version of KeePass 2.39.1. KeePass is an excellent password manager, but
-the natural ways of using it can be problematic. Fortunately, this can
-be solved by using the global auto-type feature in a special way. The
-configuration is tailored to this solution, but the discussion of the
-solution is most important. Even if you're not interested in actually
-using this copy of KeePass, you might still enjoy reading further.
+version of KeePass for Windows. KeePass is an awesome password manager,
+but it can be tricky to use it effectively as the number of entries in
+your database grows into the hundreds and beyond. This preconfigured
+copy is centered around a clever way of using the global auto-type
+feature that stays practical for arbitrarily many entries.
 
 Motivation
 
