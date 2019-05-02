@@ -107,7 +107,6 @@
 			<PrintNoKey>false</PrintNoKey>
 			<NewFile>false</NewFile>
 			<AutoTypeWithoutContext>false</AutoTypeWithoutContext>
-			<CopyToClipboard>false</CopyToClipboard>
 			<CopyWholeEntries>false</CopyWholeEntries>
 			<DragDrop>false</DragDrop>
 			<UnhidePasswords>false</UnhidePasswords>
@@ -121,7 +120,7 @@
 		</MasterPassword>
 		<MasterKeyOnSecureDesktop>true</MasterKeyOnSecureDesktop>
 		<ClipboardClearOnExit>false</ClipboardClearOnExit>
-		<ClipboardClearAfterSeconds>-1</ClipboardClearAfterSeconds>
+		<ClipboardClearAfterSeconds>30</ClipboardClearAfterSeconds>
 	</Security>
 	<Native />
 	<PasswordGenerator>
