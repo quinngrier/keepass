@@ -58,6 +58,7 @@
 		<EntryListColumnDisplayOrder>0 1</EntryListColumnDisplayOrder>
 		<EntryListAlternatingBgColors>false</EntryListAlternatingBgColors>
 		<EntryListShowDerefData>true</EntryListShowDerefData>
+		<EntryListShowDerefDataAndRefs>false</EntryListShowDerefDataAndRefs>
 		<ListSorting>
 			<Order>Ascending</Order>
 		</ListSorting>
