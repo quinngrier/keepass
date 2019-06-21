@@ -188,6 +188,7 @@
 		</UrlSchemeOverrides>
 		<SearchKeyFiles>false</SearchKeyFiles>
 		<AutoTypeMatchByTitle>false</AutoTypeMatchByTitle>
+		<AutoTypeAlwaysShowSelDialog>true</AutoTypeAlwaysShowSelDialog>
 		<AutoTypeCancelOnWindowChange>true</AutoTypeCancelOnWindowChange>
 		<AutoTypeCancelOnTitleChange>true</AutoTypeCancelOnTitleChange>
 		<AutoTypeAbortOnWindows />
