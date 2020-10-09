@@ -90,20 +90,11 @@ The following is a summary of the directory contents.
   KeePass-*.zip               The official KeePass program files
   KeePass/                    The extracted KeePass program files
   KeePass/KeePass.config.xml  The KeePass configuration file
-  gitkdbx.cmd
-  gitkdbx.sh
 
 The official KeePass source code and program files include their own
 copyright information. The extracted program files are unchanged but
 additionally include the customized configuration file, whose changes
 include an appended copyright notice.
-
-Tracking KeePass.kdbx in a parallel repository
-
-  git --git-dir=.gitkdbx --work-tree=. init
-  echo '*' >>.gitkdbx/info/exclude
-  git --git-dir=.gitkdbx --work-tree=. add -f KeePass.kdbx
-  git --git-dir=.gitkdbx --work-tree=. <etc>
 
 The authors of this file have waived all copyright and
 related or neighboring rights to the extent permitted by
