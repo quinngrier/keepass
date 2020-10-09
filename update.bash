@@ -11,7 +11,7 @@
 #       ;
 #
 
-set -euo pipefail || exit 1
+set -e -u -o pipefail || exit
 
 bin_zip=$1
 bin_sha=$2
