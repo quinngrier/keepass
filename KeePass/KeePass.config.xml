@@ -25,6 +25,7 @@
 		<TriggerSystem>
 			<Triggers />
 		</TriggerSystem>
+		<PluginCompatibility />
 	</Application>
 	<Logging />
 	<MainWindow>
@@ -32,7 +33,6 @@
 		<Height>480</Height>
 		<SplitterHorizontalFrac>0.067024128686327081</SplitterHorizontalFrac>
 		<SplitterVerticalFrac>0.099358975899999979</SplitterVerticalFrac>
-		<Layout>Default</Layout>
 		<CloseButtonMinimizesWindow>true</CloseButtonMinimizesWindow>
 		<MinimizeToTray>true</MinimizeToTray>
 		<ShowFullPathInTitle>true</ShowFullPathInTitle>
@@ -178,10 +178,7 @@
 		<KeySources />
 	</Defaults>
 	<Integration>
-		<HotKeyGlobalAutoType>393281</HotKeyGlobalAutoType>
-		<HotKeySelectedAutoType>0</HotKeySelectedAutoType>
 		<HotKeyShowWindow>0</HotKeyShowWindow>
-		<HotKeyEntryMenu>0</HotKeyEntryMenu>
 		<UrlSchemeOverrides>
 			<BuiltInOverridesEnabled>1</BuiltInOverridesEnabled>
 			<CustomOverrides />
@@ -192,8 +189,6 @@
 		<AutoTypeCancelOnWindowChange>true</AutoTypeCancelOnWindowChange>
 		<AutoTypeCancelOnTitleChange>true</AutoTypeCancelOnTitleChange>
 		<AutoTypeAbortOnWindows />
-		<ProxyType>System</ProxyType>
-		<ProxyAuthType>Auto</ProxyAuthType>
 	</Integration>
 	<Custom />
 </Configuration>
