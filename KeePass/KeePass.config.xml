@@ -187,7 +187,6 @@
 		<AutoTypeMatchByTitle>false</AutoTypeMatchByTitle>
 		<AutoTypeAlwaysShowSelDialog>true</AutoTypeAlwaysShowSelDialog>
 		<AutoTypeCancelOnWindowChange>true</AutoTypeCancelOnWindowChange>
-		<AutoTypeCancelOnTitleChange>true</AutoTypeCancelOnTitleChange>
 		<AutoTypeAbortOnWindows />
 	</Integration>
 	<Custom />
