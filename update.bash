@@ -18,8 +18,6 @@ trap exit ERR
 version=$1
 readonly version
 
-git rm '*.zip*'
-
 wget \
   -O "KeePass-$version.zip" \
   "https://sourceforge.net/projects/keepass/files/KeePass%202.x/$version/KeePass-$version.zip/download" \
@@ -43,6 +41,7 @@ wget \
 gpg --verify "KeePass-$version.zip.asc"
 gpg --verify "KeePass-$version-Source.zip.asc"
 
+git rm '*.zip*'
 git add *.zip*
 
 rm -f -r KeePass
