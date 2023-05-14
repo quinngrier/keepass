@@ -29,10 +29,6 @@
 	</Application>
 	<Logging />
 	<MainWindow>
-		<Width>640</Width>
-		<Height>480</Height>
-		<SplitterHorizontalFrac>0.067024128686327081</SplitterHorizontalFrac>
-		<SplitterVerticalFrac>0.099358975899999979</SplitterVerticalFrac>
 		<CloseButtonMinimizesWindow>true</CloseButtonMinimizesWindow>
 		<MinimizeToTray>true</MinimizeToTray>
 		<ShowFullPathInTitle>true</ShowFullPathInTitle>
@@ -66,28 +62,7 @@
 	<UI>
 		<TrayIcon />
 		<Hiding />
-		<StandardFont>
-			<Family>Microsoft Sans Serif</Family>
-			<Size>8.25</Size>
-			<GraphicsUnit>Point</GraphicsUnit>
-			<Style>Regular</Style>
-			<OverrideUIDefault>false</OverrideUIDefault>
-		</StandardFont>
-		<PasswordFont>
-			<Family>Courier New</Family>
-			<Size>8.25</Size>
-			<GraphicsUnit>Point</GraphicsUnit>
-			<Style>Regular</Style>
-			<OverrideUIDefault>false</OverrideUIDefault>
-		</PasswordFont>
 		<BannerStyle>WinVistaBlack</BannerStyle>
-		<DataEditorFont>
-			<Family>Microsoft Sans Serif</Family>
-			<Size>8.25</Size>
-			<GraphicsUnit>Point</GraphicsUnit>
-			<Style>Regular</Style>
-			<OverrideUIDefault>false</OverrideUIDefault>
-		</DataEditorFont>
 		<AutoTypeCtxFlags>35</AutoTypeCtxFlags>
 		<UIFlags>0</UIFlags>
 		<KeyCreationFlags>0</KeyCreationFlags>
@@ -169,14 +144,6 @@
 			</Profile>
 		</UserProfiles>
 	</PasswordGenerator>
-	<Defaults>
-		<OptionsTabIndex>0</OptionsTabIndex>
-		<SearchParameters>
-			<ComparisonMode>InvariantCultureIgnoreCase</ComparisonMode>
-		</SearchParameters>
-		<RememberKeySources>false</RememberKeySources>
-		<KeySources />
-	</Defaults>
 	<Integration>
 		<HotKeyShowWindow>0</HotKeyShowWindow>
 		<UrlSchemeOverrides>
