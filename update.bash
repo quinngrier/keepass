@@ -49,4 +49,3 @@ mkdir KeePass
 unzip "KeePass-$version.zip" -d KeePass
 git checkout -- KeePass/KeePass.config.xml
 git add KeePass
-
