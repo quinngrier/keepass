@@ -102,34 +102,14 @@
 	<PasswordGenerator>
 		<UserProfiles>
 			<Profile>
-				<Name>&#x200B;&#x200B;&#x200B;&#x200B;&#x200B;55 Lowercase Letters (over 258 bits)</Name>
-				<GeneratorType>CharSet</GeneratorType>
-				<Length>55</Length>
-				<CharSetRanges>_L________</CharSetRanges>
+				<Name>&#x200B;&#x200B;256 bits: 55 lowercase letters + A1!</Name>
+				<GeneratorType>Pattern</GeneratorType>
+				<Pattern>lllllllllllllllllllllllllllllllllllllllllllllllllllllll\A\1\!</Pattern>
 			</Profile>
 			<Profile>
-				<Name>&#x200B;&#x200B;&#x200B;&#x200B;28 Lowercase Letters (over 131 bits)</Name>
-				<GeneratorType>CharSet</GeneratorType>
-				<Length>28</Length>
-				<CharSetRanges>_L________</CharSetRanges>
-			</Profile>
-			<Profile>
-				<Name>&#x200B;&#x200B;&#x200B;20 Lowercase Letters (over 94 bits)</Name>
-				<GeneratorType>CharSet</GeneratorType>
-				<Length>20</Length>
-				<CharSetRanges>_L________</CharSetRanges>
-			</Profile>
-			<Profile>
-				<Name>&#x200B;&#x200B;16 Lowercase Letters (over 75 bits)</Name>
-				<GeneratorType>CharSet</GeneratorType>
-				<Length>16</Length>
-				<CharSetRanges>_L________</CharSetRanges>
-			</Profile>
-			<Profile>
-				<Name>&#x200B;10 Lowercase Letters (over 47 bits)</Name>
-				<GeneratorType>CharSet</GeneratorType>
-				<Length>10</Length>
-				<CharSetRanges>_L________</CharSetRanges>
+				<Name>&#x200B;128 bits: 28 lowercase letters + A1!</Name>
+				<GeneratorType>Pattern</GeneratorType>
+				<Pattern>llllllllllllllllllllllllllll\A\1\!</Pattern>
 			</Profile>
 		</UserProfiles>
 	</PasswordGenerator>
